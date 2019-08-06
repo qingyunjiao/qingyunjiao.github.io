@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+##欢迎大家
+###以下是我在java教学过程中手写的代码,有需要的同学可以下载学习,完全免费!!
 
-You can use the [editor on GitHub](https://github.com/qingyunjiao/qingyunjiao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qingyunjiao/qingyunjiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+　1.　　[java6_chapter4_dao.zip　2019-07-31](http://www.gyun.org/java6_chapter4_dao.zip "javaweb　手写dao层")
+　2.　　[java6_chapter5_jndi.zip　2019-08-02](http://www.gyun.org/java6_chapter5_jndi.zip "javaweb　手写JNDI")
+　3.　　[java6_chapter6_ckeditor.zip　2019-08-05](http://www.gyun.org/java6_chapter6_ckeditor.zip "javaweb　怎么使用ckeditor组件")
+　4.　　[java6_chapter6_fileupload.zip　2019-08-05](http://www.gyun.org/java6_chapter6_fileupload.zip "javaweb　手写文件上传")
+## 如有疑问可以加我QQ：1050968899 或　微信：QingYunJiao ##
+   (持续更新)
