@@ -17,5 +17,5 @@
 ## 如有疑问可以加我QQ：1050968899 或　微信：QingYunJiao ## 
 ## 或加群： ##
 600260138　JAVA技术交流&资源分享群  |  636187852 Java技术交流分享群  | 备注:xx
-   # (持续更新) #
-<h2>请关注一下<a href="https://blog.csdn.net/atgfg">博客</a>，这个更新最早。<a href="https://blog.csdn.net/atgfg">我要看看</a></h2>
+<h2>请关注一下<a href="https://blog.csdn.net/atgfg">博客</a>，这个更新最早。<a href="https://blog.csdn.net/atgfg">我要看看</a></h2>   
+# (持续更新) #
