@@ -15,6 +15,7 @@
 1.  [java6_chapter911_ajax_jquery.zip(手写原生Ajax及jQuery封装的Ajax小Demo)　2019-08-16](http://www.gyun.org/java6_chapter911_ajax_jquery.zip "javaweb　手写原生Ajax及jQuery封装的Ajax小Demo")  
 1.  [java6_chapter911_ajax_jquery_json.zip(手写Ajax异步刷新并运用Json格式返回数据刷新页面的小Demo)　2019-08-19](http://www.gyun.org/java6_chapter911_ajax_jquery_json.zip "javaweb　手写Ajax异步刷新并运用Json格式返回数据刷新页面的小Demo")  <strong><a href="http://myxyz.com.cn/java6_chapter911_ajax_jquery_json/login.jsp">在线Demo</a></strong>  
 1.  [java6_chapter912_ajax_jquery3.zip(手写使用jquery发送Ajax请求的几种异步刷新方式小Demo)　2019-08-21](http://www.gyun.org/java6_chapter912_ajax_jquery3.zip "javaweb　手写使用jquery发送Ajax请求的几种异步刷新方式小Demo")  <strong><a href="http://myxyz.com.cn/java6_chapter912_ajax_jquery3/ajaxtest_base.jsp">在线Demo</a></strong>  
+1.  [java6_chapter912_ajax_jquery4_serializeArray_fastjson.zip(手写jquery简化表单元素提交和FASTJSON的应用小Demo)　2019-08-26](http://www.gyun.org/java6_chapter912_ajax_jquery4_serializeArray_fastjson.zip "javaweb　手写jquery简化表单元素提交和FASTJSON的应用小Demo")  <strong><a href="http://myxyz.com.cn/java6_chapter912_ajax_jquery4_serializeArray_fastjson/register.jsp">在线Demo1</a>&nbsp;&nbsp;<a href="http://myxyz.com.cn/java6_chapter912_ajax_jquery4_serializeArray_fastjson/login.jsp">在线Demo2</a></strong>  
 ## 如有疑问可以加我QQ：1050968899 或　微信：QingYunJiao ## 
 ## 或加群： ##
 600260138　JAVA技术交流&资源分享群  |  636187852 Java技术交流分享群  | 备注:xx
