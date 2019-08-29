@@ -1,6 +1,7 @@
 # 欢迎大家 #  
 ## 以下是我在java教学过程中手写的代码,有需要的同学可以下载学习,完全免费!! ##  
 1. [java1_chapter1_java_base.pdf(初识java笔记及相关手写小Demo)  2019-08-28](http://www.gyun.org/java1_chapter1_java_base.pdf)     
+1. [java1_chapter2_type_variable(JavaSE变量与数据类型笔记及相关手写小Demo) 2019-08-29)  2019-07-26](http://www.gyun.org/java1_chapter2_type_variable(JavaSE变量与数据类型).pdf)     
 1. [java6_chapter2_session_cookie_application.zip(手写数据的传递和保存小Demo)  2019-07-26](http://www.gyun.org/java6_chapter2_session_cookie_application.zip)     
 1. [java6_chapter3_jdbc.zip(手写JDBC小Demo)  2019-07-29](http://www.gyun.org/java6_chapter3_jdbc.zip "javaweb　手写JDBC")  
 1.   [java6_chapter4_dao.zip(手写Dao小Demo)　2019-07-31](http://www.gyun.org/java6_chapter4_dao.zip "javaweb　手写Dao")  
