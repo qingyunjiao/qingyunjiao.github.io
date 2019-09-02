@@ -26,5 +26,5 @@
     <p> <strong>小网站的地址为：<a href="http://www.gyun.org">http://www.gyun.org</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     </p>
 
-<h2>资源持续更新！敬请关注<h2> 
+<h2>资源持续更新！敬请关注！<h2> 
 
