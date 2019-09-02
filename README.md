@@ -25,5 +25,6 @@
     <p class="red">教学模式为：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
     <p> <strong>小网站的地址为：<a href="http://www.gyun.org">http://www.gyun.org</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     </p>
-#(持续更新)#
+
+<h2>资源持续更新！敬请关注<h2> 
 
