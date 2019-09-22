@@ -1,11 +1,14 @@
 # 欢迎大家 #
 
 ## 以下是我在java教学过程中手写的代码,有需要的同学可以下载学习,完全免费!! ##  
-1. [java1_chapter1_java_base.pdf(初识java笔记及相关手写小Demo)  2019-08-28 更新时间2019-09-05](http://www.gyun.org/java1_chapter1_java_base.pdf?_blank)     
-1. [java1_chapter2_type_variable(JavaSE变量与数据类型笔记及相关手写小Demo) 2019-08-29 更新时间2019-09-05](http://www.gyun.org/java1_chapter2_type_variable(JavaSE变量与数据类型).pdf?_blank)     
-1. [java1_chapter3_if_switch.pdf(JavaSE选择结构笔记及相关手写小Demo) 2019-09-04 更新2019-09-06](http://www.gyun.org/java1_chapter3_if_switch.pdf?_blank)     
-1. [java1_chapter4_while_dowhile_for.pdf(JavaSE循环结构笔记及相关手写小Demo) 2019-09-06](http://www.gyun.org/java1_chapter4_while_dowhile_for.pdf?_blank)    
-1. [java1_chapter5_array.pdf(JavaSE数组笔记及相关手写小Demo) 2019-09-13](http://www.gyun.org/java1_chapter5_array.pdf?_blank)    
+1. [java1_chapter1_java_base.pdf(Java入门学习-初识java笔记及相关手写小Demo)  2019-08-28 更新时间2019-09-05](http://www.gyun.org/java1_chapter1_java_base.pdf?_blank)     
+1. [java1_chapter2_type_variable(Java入门学习-JavaSE变量与数据类型笔记及相关手写小Demo) 2019-08-29 更新时间2019-09-05](http://www.gyun.org/java1_chapter2_type_variable(JavaSE变量与数据类型).pdf?_blank)     
+1. [java1_chapter3_if_switch.pdf(Java入门学习-选择结构笔记及相关手写小Demo) 2019-09-04 更新2019-09-06](http://www.gyun.org/java1_chapter3_if_switch.pdf?_blank)     
+1. [java1_chapter4_while_dowhile_for.pdf(Java入门学习-循环结构文档资料) 2019-09-06](http://www.gyun.org/java1_chapter4_while_dowhile_for.pdf?_blank)    
+1. [java1_chapter4_while_dowhile_for.zip(Java入门学习-循环结构手写小Demo) 2019-09-19](http://www.gyun.org/java1_chapter4_while_dowhile_for.zip?_blank)    
+1. [java1_chapter5_array.pdf(Java入门学习-数组文档资料) 2019-09-13](http://www.gyun.org/java1_chapter5_array.pdf?_blank)    
+1. [java1_chapter5_array.zip(Java入门学习-数组手写小Demo) 2019-09-22](http://www.gyun.org/java1_chapter5_array.zip?_blank)    
+1. [java1_chapter6_array_two.zip(Java入门学习-二维数组手写小Demo) 2019-09-22](http://www.gyun.org/java1_chapter6_array_two.zip?_blank)    
 1. [java6_chapter2_session_cookie_application.zip(手写数据的传递和保存小Demo)  2019-07-26](http://www.gyun.org/java6_chapter2_session_cookie_application.zip?_blank)     
 1. [java6_chapter3_jdbc.zip(手写JDBC小Demo)  2019-07-29](http://www.gyun.org/java6_chapter3_jdbc.zip?_blank "javaweb　手写JDBC")  
 1. [java6_chapter4_dao.zip(手写Dao小Demo)　2019-07-31](http://www.gyun.org/java6_chapter4_dao.zip?_blank "javaweb　手写Dao")  
@@ -29,7 +32,7 @@
 <p class="red">教学模式为：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
 
 
-<h3>如有疑问或建议,在线加QQ：&nbsp; <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1050968899&site=qq&menu=yes">  <img border="0" src="http://wpa.qq.com/pa?p=2:1050968899:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>&nbsp;或扫&nbsp;QQ：&nbsp;<img src="http://www.gyun.org/images/dong_teacher_qq.png"> &nbsp;或扫&nbsp;微信：&nbsp;<img src="http://www.gyun.org/images/qingyunjiao_weixin.png"> &nbsp;或加&nbsp;微信号：&nbsp;QingYunJiao &nbsp;</h3>   
+<h3>如有疑问或建议,在线加QQ：&nbsp; <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1050968899&site=qq&menu=yes">  <img border="0" src="http://wpa.qq.com/pa?p=2:1050968899:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>&nbsp;或扫&nbsp;QQ：&nbsp;<img src="http://www.gyun.org/images/dong_teacher_qq.jpg"> &nbsp;或扫&nbsp;微信：&nbsp;<img src="http://www.gyun.org/images/qingyunjiao_weixin.png"> &nbsp;或加&nbsp;微信号：&nbsp;QingYunJiao &nbsp;</h3>   
 
 <h4 class="blue center line">想系统学习JAVA的学友请加备注：<span class="red font">xx</span> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;想提升技术的学友请加备注：<span class="red font">js</span> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;需要资料的学友请加备注：<span class="red font">zl</span></h4>   
 
