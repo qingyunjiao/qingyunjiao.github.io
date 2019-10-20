@@ -1,5 +1,0 @@
-
-原来的
-<p class="red">我是<strong>北大青鸟的一名认证老师</strong>，<strong>主讲JAVA7.0</strong>，有想<strong>系统学习JAVA或C#编程</strong>的朋友，请速与我联系，近期开班，<strong>说重点：凡咨询报名，说是北大青鸟的董老师介绍过来的同学，可以在全国统一价不变的基本上给予奖励噢！注意全国北大青鸟都有效噢！</strong>请大家抓紧时间。有意者请联系！具体私聊
-
-<p class="red">教学模式为：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
