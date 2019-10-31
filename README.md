@@ -44,7 +44,7 @@
 
 
 
-<center>
+
 
 
 
@@ -61,7 +61,7 @@
 | <a target="_blank" href="https://gitee.com/qingyunjiao/qingyunjiao.github.io">码云</a>      | 　     |  <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=sPTmU3">腾讯云3（个人用户专享券3000元/1年）</a> |  　
 
 
-</center>
+
 <p>
  <h1 class="margins"><strong><a target="_blank" border="0" href="http://www.gyun.org/images/logo_javaxyz.png" title="微信公众号：JavaForum">更多免费资源请关注微信公众号：</a>&nbsp;</strong></h1><p></p>
     <div align="center"><a target="_blank" border="0" href="http://www.javaxyz.com" title="点击跳转网址为：http://www.javaxyz.com"><img src="http://www.gyun.org/images/logo_javaxyz.png" width = "100%" height = "100%" /></a></div>
