@@ -47,12 +47,12 @@
 
 
 
+<center>
 
 
 
-
-| 程序员必上网站       | 程序员项目搭建部署必备网站           | 双11域名或空间优惠 | 其它登录网站 |
-|:-------------:|  :---------:|  :----:|
+| 程序员必上网站 | 程序员项目搭建部署必备网站 | 双11域名或空间优惠 | 其它登录网站 |
+| --- | --- | --- | --- |
 | <a target="_blank" href="https://www.baidu.com/">百度</a>   | <a target="_blank" href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=lhilisg5">阿里云</a>  | <a target="_blank" href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=lhilisg5">阿里云1（领取￥2000红包）</a>     |　<a target="_blank" href="http://s.bdqn.cn/login">云课堂</a>|
 | <a target="_blank" href="https://www.google.com">Google</a>   | <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=R2Rg3T">腾讯云</a>  | <a target="_blank"        href="https://www.aliyun.com/1111/2019/group-buying-share?ptCode=B78B753CCE9528B4647C88CF896EF535&userCode=lhilisg5&share_source=copy_link">阿里云2（云服务86.00/年）</a>     |　<a target="_blank" href="http://home.bdqn.cn/portal.php">云豆网</a>　|
 | <a target="_blank" href="https://fanyi.baidu.com/">百度翻译</a>   | <a target="_blank" href="https://mvnrepository.com/">maven仓库</a>  | <a target="_blank" href="https://www.aliyun.com/1111/2019/home?ptCode=B78B753CCE9528B432EC28C10F2C5528&share_source=copy_link">阿里云3（拼手气最高5000元）</a>     |  　
@@ -62,6 +62,7 @@
 
 
 
+</center>
 <p>
  <h1 class="margins"><strong><a target="_blank" border="0" href="http://www.gyun.org/images/logo_javaxyz.png" title="微信公众号：JavaForum">更多免费资源请关注微信公众号：</a>&nbsp;</strong></h1><p></p>
     <div align="center"><a target="_blank" border="0" href="http://www.javaxyz.com" title="点击跳转网址为：http://www.javaxyz.com"><img src="http://www.gyun.org/images/logo_javaxyz.png" width = "100%" height = "100%" /></a></div>
