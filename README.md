@@ -1,6 +1,7 @@
 # Java技术学习资源栈欢迎大家 #
 
-## 以下是我手写的Java代码，从Java入门到Java高级，再到主流框架，最后到微服务。有需要的同学可以点击下载学习，完全免费！ ##  
+## 以下是我手写的Java代码，从Java入门到Java高级，再到主流框架，最后到微服务。有需要的同学可以点击下载学习，完全免费！ ##
+
 1. [java1_chapter1_java_base.pdf(Java入门学习-初识java笔记及相关手写小Demo)  2019-08-28 更新时间2019-09-05](http://www.gyun.org/java1_chapter1_java_base.pdf?_blank)     
 1. [java1_chapter2_type_variable(Java入门学习-JavaSE变量与数据类型笔记及相关手写小Demo) 2019-08-29 更新时间2019-09-05](http://www.gyun.org/java1_chapter2_type_variable(JavaSE变量与数据类型).pdf?_blank)              
 1. [java1_chapter3_if_switch.pdf(Java入门学习-选择结构笔记及相关手写小Demo) 2019-09-04 更新2019-09-06](http://www.gyun.org/java1_chapter3_if_switch.pdf?_blank)     
@@ -39,7 +40,6 @@
 <p>
 <p class="red margins lihe font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是<strong>一名认证专业老师</strong>，<strong>主讲JAVA7.0</strong>，有想<strong>系统学习JAVA、C#编程或少儿编程</strong>的朋友，请速与我联系！<strong>说重点：凡咨询报名，经董老师介绍过来的同学，给予奖励噢！注意华东地区都有效噢！</strong>近期开班，请大家抓紧时间，有意者请联系我！具体私聊<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1050968899&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1050968899:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>&nbsp;</p>
 <p class="reds margins font" align="center"><span class="font">教学模式为</span>：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
-
 ---
 
 
@@ -55,10 +55,10 @@
 | --- | --- | --- | --- |
 | <a target="_blank" href="https://www.baidu.com/">百度</a>   | <a target="_blank" href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=lhilisg5">阿里云</a>  | <a target="_blank" href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=lhilisg5">阿里云1（领取￥2000红包）</a>     |　<a target="_blank" href="http://s.bdqn.cn/login">云课堂</a>|
 | <a target="_blank" href="https://www.google.com">Google</a>   | <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=R2Rg3T">腾讯云</a>  | <a target="_blank"        href="https://www.aliyun.com/1111/2019/group-buying-share?ptCode=B78B753CCE9528B4647C88CF896EF535&userCode=lhilisg5&share_source=copy_link">阿里云2（云服务86.00/年）</a>     |　<a target="_blank" href="http://home.bdqn.cn/portal.php">云豆网</a>　|
-| <a target="_blank" href="https://fanyi.baidu.com/">百度翻译</a>   | <a target="_blank" href="https://mvnrepository.com/">maven仓库</a>  | <a target="_blank" href="https://www.aliyun.com/1111/2019/home?ptCode=B78B753CCE9528B432EC28C10F2C5528&share_source=copy_link">阿里云3（拼手气最高5000元）</a>     |  　
-| <a target="_blank" href="https://blog.csdn.net/atgfg">CSDN</a>   | <a target="_blank" href="https://maven.aliyun.com/mvn/search">阿里云maven仓库</a>  | <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=R2Rg3T">腾讯云1（云服务88元/1年）</a>     |  　
+| <a target="_blank" href="https://fanyi.baidu.com/">百度翻译</a>   | <a target="_blank" href="https://mvnrepository.com/">maven仓库</a>  | <a target="_blank" href="https://www.aliyun.com/1111/2019/home?ptCode=B78B753CCE9528B432EC28C10F2C5528&share_source=copy_link">阿里云3（拼手气最高5000元）</a>     |
+| <a target="_blank" href="https://blog.csdn.net/atgfg">CSDN</a>   | <a target="_blank" href="https://maven.aliyun.com/mvn/search">阿里云maven仓库</a>  | <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=R2Rg3T">腾讯云1（云服务88元/1年）</a>     |
 |  <a target="_blank" href="https://github.com/qingyunjiao/qingyunjiao.github.io">GitHub</a>  | <a target="_blank" href="https://www.processon.com/i/201910/5d244b71e4b0ae3317dddac2">免费在线作图</a>  | <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=FbI3JW">腾讯云2（企业用户专享券6888元）</a>     |  　|
-| <a target="_blank" href="https://gitee.com/qingyunjiao/qingyunjiao.github.io">码云</a>      | 　     |  <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=sPTmU3">腾讯云3（个人用户专享券3000元/1年）</a> |  　
+| <a target="_blank" href="https://gitee.com/qingyunjiao/qingyunjiao.github.io">码云</a>      | 　     |  <a target="_blank" href="https://cloud.tencent.com/act/double11/reserve?spread_hash_key=sPTmU3">腾讯云3（个人用户专享券3000元/1年）</a> |
 
 
 
