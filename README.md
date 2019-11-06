@@ -40,14 +40,18 @@
 <p>
 <p class="red margins lihe font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是<strong>一名认证专业老师</strong>，<strong>主讲JAVA7.0</strong>，有想<strong>系统学习JAVA、C#编程或少儿编程</strong>的朋友，请速与我联系！<strong>说重点：凡咨询报名，经董老师介绍过来的同学，给予奖励噢！注意华东地区都有效噢！</strong>近期开班，请大家抓紧时间，有意者请联系我！具体私聊<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1050968899&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1050968899:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>&nbsp;</p>
 <p class="reds margins font" align="center"><span class="font">教学模式为</span>：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
----
+
+
+
+----------
 
 
 
 
 
 
-<center>
+
+<div align="center">
 
 
 
@@ -62,7 +66,7 @@
 
 
 
-</center>
+</div>
 <p>
  <h1 class="margins"><strong><a target="_blank" border="0" href="http://www.gyun.org/images/logo_javaxyz.png" title="微信公众号：JavaForum">更多免费资源请关注微信公众号：</a>&nbsp;</strong></h1><p></p>
     <div align="center"><a target="_blank" border="0" href="http://www.javaxyz.com" title="点击跳转网址为：http://www.javaxyz.com"><img src="http://www.gyun.org/images/logo_javaxyz.png" width = "100%" height = "100%" /></a></div>
