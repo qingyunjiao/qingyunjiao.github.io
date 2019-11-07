@@ -35,7 +35,7 @@
 1. [声明式事务的注解方式.rar(手写声明式事务的注解方式文档资料（含代码）)　2019-10-09　更新2019-10-12](http://www.gyun.org/声明式事务的注解方式.rar?_blank )
 1. [Spring的数据源配置.rar(手写Spring的数据源配置文档资料（含代码）)　2019-10-09](http://www.gyun.org/Spring的数据源配置.rar?_blank )
 1. [java7_chapter8_springmvc.rar(手写SpringMVC的搭建小Demo)　2019-10-20](http://www.gyun.org/java7_chapter8_springmvc.rar?_blank )
-1. [springboot的maven配置方式.rar(手写springboot的maven配置方式文档)　2019-11-06](http://www.gyun.org/springboot的maven配置方式.rar?_blank )
+1. [springboot的maven配置方式.rar(手写springboot的maven配置方式文档)　2019-11-06 更新时间2019-11-07](http://www.gyun.org/springboot的maven配置方式.rar?_blank )
 1. [apache-maven-3.6.0-bin.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-bin.zip?_blank )
 1. [apache-maven-3.6.0-src.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-src.zip?_blank )
 
