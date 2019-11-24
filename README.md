@@ -40,6 +40,7 @@
 1. [springboot的maven配置方式.rar(手写springboot的maven配置方式文档)　2019-11-06 更新时间2019-11-07](http://www.gyun.org/springboot的maven配置方式.rar?_blank )
 1. [apache-maven-3.6.0-bin.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-bin.zip?_blank )
 1. [apache-maven-3.6.0-src.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-src.zip?_blank )
+1. [Spring Boot 手写Productqualitymanager项目在线演示（含分页、ajax异步刷新和前后端分离技术）　2019-11-23](http://myxyz.com.cn/productqualitymanager?_blank )
 
 
 <p>
