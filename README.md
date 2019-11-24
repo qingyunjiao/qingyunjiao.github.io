@@ -17,6 +17,7 @@
 1. [java1_chapter912_exception2.rar(Java入门学习-手写异常小Demo) 2019-10-17) 2019-09-22](http://www.gyun.org/java1_chapter912_exception2.rar?_blank)    
 1. [java1_chapter918_extends.rar(Java扩展学习-手写equals方法的使用小Demo) 2019-10-16](http://www.gyun.org/java1_chapter918_extends.rar?_blank)    
 1. [java2_chapter6_xml1(To_be_updated).zip(Java进阶-手写XML小Demo) 2019-11-12](http://www.gyun.org/java2_chapter6_xml1(To_be_updated).zip?_blank)    
+1. [WEB前端表单表格列表demo.rar(JavaWEB进阶-手写小Demo) 2019-11-23](http://www.gyun.org/web前端表单表格列表demo.rar?_blank) 
 1. [java6_chapter2_session_cookie_application.zip(手写数据的传递和保存小Demo)  2019-07-26](http://www.gyun.org/java6_chapter2_session_cookie_application.zip?_blank)     
 1. [java6_chapter3_jdbc.zip(手写JDBC小Demo)  2019-07-29](http://www.gyun.org/java6_chapter3_jdbc.zip?_blank "javaweb　手写JDBC")  
 1. [java6_chapter4_dao.zip(手写Dao小Demo)　2019-07-31](http://www.gyun.org/java6_chapter4_dao.zip?_blank "javaweb　手写Dao")  
@@ -46,6 +47,13 @@
 <p class="reds margins font" align="center"><span class="font">教学模式为</span>：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
 
 
+
+<p class="blue margins font2" align="center"><strong  class="red" >另有：</strong>大批有开发经验的Java工程师需要在年底找工作，有需要招聘的单位，请速与我联系！<a
+            target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1050968899&site=qq&menu=yes"><img border="0"
+                                                                                                    src="http://wpa.qq.com/pa?p=2:1050968899:52"
+                                                                                                    alt="点击这里给我发消息"
+                                                                                                    title="点击这里给我发消息"/></a>&nbsp
+    </p>
 
 ----------
 
