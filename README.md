@@ -32,9 +32,9 @@
 1. [java6_chapter910_listener.zip(手写Listener1小Demo)　2019-08-14](http://www.gyun.org/java6_chapter910_listener.zip?_blank "javaweb　手写Listener1小Demo")  
 1. [java6_chapter910_listener2.zip(手写Listener2小Demo)　2019-08-14](http://www.gyun.org/java6_chapter910_listener2.zip?_blank "javaweb　手写Listener2小Demo")  
 1. [java6_chapter911_ajax_jquery.zip(手写原生Ajax及jQuery封装的Ajax小Demo)　2019-08-16](http://www.gyun.org/java6_chapter911_ajax_jquery.zip?_blank "javaweb　手写原生Ajax及jQuery封装的Ajax小Demo")  
-1. [java6_chapter911_ajax_jquery_json.zip(手写Ajax异步刷新并运用Json格式返回数据刷新页面的小Demo)　2019-08-19](http://www.gyun.org/java6_chapter911_ajax_jquery_json.zip?_blank "javaweb　手写Ajax异步刷新并运用Json格式返回数据刷新页面的小Demo")  <strong><a target="_blank" href="http://myxyz.com.cn/java6_chapter911_ajax_jquery_json/login.jsp">在线Demo</a></strong>  
-1. [java6_chapter912_ajax_jquery3.zip(手写使用jquery发送Ajax请求的几种异步刷新方式小Demo)　2019-08-21](http://www.gyun.org/java6_chapter912_ajax_jquery3.zip?_blank "javaweb　手写使用jquery发送Ajax请求的几种异步刷新方式小Demo")  <strong><a target="_blank" href="http://myxyz.com.cn/java6_chapter912_ajax_jquery3/ajaxtest_base.jsp">在线Demo</a></strong>  
-1. [java6_chapter912_ajax_jquery4_serializeArray_fastjson.zip(手写jquery简化表单元素提交和FASTJSON的应用小Demo)　2019-08-26](http://www.gyun.org/java6_chapter912_ajax_jquery4_serializeArray_fastjson.zip?_blank "javaweb　手写jquery简化表单元素提交和FASTJSON的应用小Demo")  <strong><a target="_blank" href="http://myxyz.com.cn/java6_chapter912_ajax_jquery4_serializeArray_fastjson/register.jsp">在线Demo1</a>&nbsp;&nbsp;<a target="_blank" href="http://myxyz.com.cn/java6_chapter912_ajax_jquery4_serializeArray_fastjson/login.jsp">在线Demo2</a></strong>  
+1. [java6_chapter911_ajax_jquery_json.zip(手写Ajax异步刷新并运用Json格式返回数据刷新页面的小Demo)　2019-08-19](http://www.gyun.org/java6_chapter911_ajax_jquery_json.zip?_blank "javaweb　手写Ajax异步刷新并运用Json格式返回数据刷新页面的小Demo")  
+1. [java6_chapter912_ajax_jquery3.zip(手写使用jquery发送Ajax请求的几种异步刷新方式小Demo)　2019-08-21](http://www.gyun.org/java6_chapter912_ajax_jquery3.zip?_blank "javaweb　手写使用jquery发送Ajax请求的几种异步刷新方式小Demo")  
+1. [java6_chapter912_ajax_jquery4_serializeArray_fastjson.zip(手写jquery简化表单元素提交和FASTJSON的应用小Demo)　2019-08-26](http://www.gyun.org/java6_chapter912_ajax_jquery4_serializeArray_fastjson.zip?_blank "javaweb　手写jquery简化表单元素提交和FASTJSON的应用小Demo")   
 1. [java7_chapter6_springandmybatis.zip(手写Spring和Mybatis的整合小Demo)　2019-09-27](http://www.gyun.org/java7_chapter6_springandmybatis.zip?_blank )
 1. [声明式事务的注解方式.rar(手写声明式事务的注解方式文档资料（含代码）)　2019-10-09　更新2019-10-12](http://www.gyun.org/声明式事务的注解方式.rar?_blank )
 1. [Spring的数据源配置.rar(手写Spring的数据源配置文档资料（含代码）)　2019-10-09](http://www.gyun.org/Spring的数据源配置.rar?_blank )
@@ -42,7 +42,6 @@
 1. [springboot的maven配置方式.rar(手写springboot的maven配置方式文档)　2019-11-06 更新时间2019-11-07](http://www.gyun.org/springboot的maven配置方式.rar?_blank )
 1. [apache-maven-3.6.0-bin.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-bin.zip?_blank )
 1. [apache-maven-3.6.0-src.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-src.zip?_blank )
-1. [Spring Boot 手写Productqualitymanager项目在线演示（含分页、ajax异步刷新和前后端分离技术）　2019-11-23](http://myxyz.com.cn/productqualitymanager?_blank )
 1. [在idea下配置和使用SVN及bug解决方案文档　2019-12-03](http://www.gyun.org/在idea下配置和使用SVN及bug解决方案.rar?_blank )
 
 
