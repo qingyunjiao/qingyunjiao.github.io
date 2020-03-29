@@ -1,6 +1,7 @@
-    # Java技术学习资源栈欢迎大家 #
+# Java技术学习资源栈欢迎大家 #
 
-## 以下是我手写的Java代码，从Java入门到Java高级，再到主流框架，最后到微服务。有需要的同学可以点击下载学习，完全免费！ ##
+## 以下是我手写的Java代码，从Java入门到Java高级，再到主流框架，最后到微服务。有需要的同学可以点击下载学习，完全免费！想获取最新教学资源的同学,请关注微信公众号:　青云交 或　JavaForum　,将不定时推送一些Java教学资源,敬请关注,谢谢支持! ##
+## 重要的事情说三遍:　获取最新教学资源请加微信公众号:　JavaForum    获取最新教学资源请加微信公众号:　JavaForum    获取最新教学资源请加微信公众号:　JavaForum ##
 
 1. [java1_chapter1_java_base.pdf(Java入门学习-初识java笔记及相关手写小Demo)  2019-08-28 更新时间2019-09-05](http://www.gyun.org/java1_chapter1_java_base.pdf?_blank)     
 1. [java1_chapter2_type_variable(Java入门学习-JavaSE变量与数据类型笔记及相关手写小Demo) 2019-08-29 更新时间2019-09-05](http://www.gyun.org/java1_chapter2_type_variable(JavaSE变量与数据类型).pdf?_blank)              
